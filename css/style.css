@@ -43,6 +43,7 @@ width: 50%;
 .vlad__knopka{
 	border: 10px solid bk;
 	max-width: 500px;
+	min-width: 100px;
 		margin: 50px;
 		margin-top: 100px;
 }
