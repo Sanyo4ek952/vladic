@@ -1,0 +1,88 @@
+/* &display=swap */
+
+@import "null.css";
+
+.vlad {
+	display: block;
+	background-image: url(../img/raduga.jpg) ;
+width: 100%;
+height: 1200px;
+}
+
+
+.vlad__icon {
+padding-top: 150px;
+	width: 250px;
+	margin: 0 auto;
+
+}
+.vlad__lox {
+	width: 230px;
+
+
+
+}
+.vlad__quest {}
+
+.vlad__button {}
+.vlad__icon {}
+
+.vlad__lox {}
+
+.vlad__quest {}
+
+.vlad__button {
+width: 50%;
+	margin: 0 auto;
+}
+
+.vlad__knopka{
+	border: 10px solid bk;
+	width: 500px;
+		margin: 50px;
+		margin-top: 100px;
+}
+a {
+	display: inline-block;
+	border: 10px solid black;
+	padding: 15px;
+	text-align: center;
+	font-size: 48px;
+	font-weight: bold;
+	color: black;
+	background-color: rgb(165, 152, 152);
+	border-radius: 30px;
+}
+	
+
+.knopka__vlad-1:hover {
+	position: relative;
+	bottom: 7px;
+	border-bottom: 15px solid black;
+	border-top: 5px solid black;
+	border-left: 15px solid #000;
+border-right: 5px solid #000;
+
+
+}
+.knopka__vlad-2:hover {
+	position: relative;
+	bottom: 7px;
+	border-bottom: 15px solid black;
+	border-top: 5px solid black;
+	border-left: 15px solid #000;
+	border-right: 5px solid #000;
+	display: none;
+
+
+}
+.vlad__title{
+	padding-bottom: 30px;
+	text-align: center;
+	font-size: 52px;
+	font-weight: bold;
+}
+.none {
+	display: none;
+}
+
